@@ -32,5 +32,5 @@ endmodule
 ```
 ## Author
 
-Anikait Sarkar
-RSA SEIP VLSI Trainee
+-Anikait Sarkar
+-RSA SEIP VLSI Trainee
