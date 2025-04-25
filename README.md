@@ -27,3 +27,9 @@ module clock(AM, A, B);
 
     assign AM = A;
 endmodule
+
+*/
+
+Author
+Anikait Sarkar
+RSA SEIP VLSI Trainee
