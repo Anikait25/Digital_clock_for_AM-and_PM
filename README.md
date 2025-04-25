@@ -29,7 +29,8 @@ module clock(AM, A, B);
 endmodule
 
 */
+```
+## Author
 
-Author
 Anikait Sarkar
 RSA SEIP VLSI Trainee
