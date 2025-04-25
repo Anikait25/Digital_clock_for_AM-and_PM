@@ -10,9 +10,6 @@ The `clock` module uses two input signals:
 - **A**: Indicates whether it is morning (`1`) or afternoon (`0`)
 - **B**: Indicates whether the hour is less than 6 (`1`) or greater than 6 (`0`) — *(Note: This input is currently unused)*
 
-### Output
-- **AM**: Simply mirrors the value of `A`. If `A = 1`, the output `AM` will also be `1`, indicating morning. If `A = 0`, `AM = 0`, indicating afternoon.
-
 ### Verilog Code
 
 ```verilog
@@ -30,6 +27,10 @@ endmodule
 
 */
 ```
+
+### Output
+- **AM**: Simply mirrors the value of `A`. If `A = 1`, the output `AM` will also be `1`, indicating morning. If `A = 0`, `AM = 0`, indicating afternoon.
+
 ## Author
 
 Anikait Sarkar  
